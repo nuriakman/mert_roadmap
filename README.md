@@ -1,16 +1,18 @@
 # Mert Roadmap
 
-![](https://cdn.webrazzi.com/uploads/2017/05/roadmap.jpg)
+![Yol Haritası](https://cdn.webrazzi.com/uploads/2017/05/roadmap.jpg)
 
 ## Linux
 
 - Ubuntu kurulumu
-- Temel kullanım bilgisi
+- Temel arayüz kullanım bilgisi
+- Temel komut satırı kullanım bilgisi
 
 ## Çalışma Ortamı Kurulumu
 
 - VSCode kurulumu ve HTML-CSS için bazı eklentiler
 - Firefox için bazı eklentiler
+- Github
 
 ## HTML - CSS - BOOTSTRAP ile Ön Yüz Kodlama
 
